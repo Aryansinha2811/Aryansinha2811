@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Docker, Kubernetes, Git, Version Control System**
 
-- 📫 How to reach me **ex@gmail.com**
+- 📫 How to reach me **sinhaaryan622@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
