@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Sinha</h1>
-<div align="center"><img width="2500" height="260" src ="https://raw.githubusercontent.com/Aryansinha2811/Aryansinha2811/main/Aryan_Banner.png"></div>
+<div align="center"><img width="2000" height="250" src ="https://raw.githubusercontent.com/Aryansinha2811/Aryansinha2811/main/Aryan_Banner.png"></div>
 <h3 align="center">I'm a Software Development Enthusiast !!...</h3>
 <img align="right" alt="Dev" width="400" height="250" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
