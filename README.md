@@ -3,13 +3,13 @@
 <h3 align="center">I'm a Software Development Enthusiast !!...</h3>
 <img align="right" alt="Dev" width="400" height="250" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinha2811&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinha2811" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/aryan_sinha28" target="blank"><img src="https://img.shields.io/twitter/follow/aryan_sinha28?logo=twitter&style=for-the-badge" alt="aryan_sinha28" /></a> </p>
 
-- 🌱 I’m currently learning **Java , Javascript , Etc.**
+- 🌱 I’m currently learning **Java & Web Development**
 
-- 💬 Ask me about **C , Java , Javascript**
+- 💬 Ask me about **Java , C , Javascript**
 
 - 📫 You can reach me via **sinha.aryan1128@gmail.com**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/aryan_sinha28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan_sinha28" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aryan-sinha-7157a2271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryan sinha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sinhaaryan622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sinhaaryan622" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@sinhaaryan622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sinhaaryan622" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
